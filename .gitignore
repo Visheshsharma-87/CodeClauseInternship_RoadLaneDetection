@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.db
+trainer.yml
+*.log
+.vscode/
