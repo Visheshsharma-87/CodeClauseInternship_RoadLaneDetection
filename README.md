@@ -60,7 +60,7 @@ RoadLaneDetection/
     └── fps_counter.py           # Real-time FPS tracking
 🚀 How to Run
 1. 🔃 Clone the repo:
-git clone https://github.com/Visheshsharma-87/RoadLaneDetection.git
+git clone https://github.com/Visheshsharma-87/CodeClauseInternship_RoadLaneDetection.git
 2. 📦 Install dependencies:
 pip install -r requirements.txt
 3. ▶️ Launch GUI:
